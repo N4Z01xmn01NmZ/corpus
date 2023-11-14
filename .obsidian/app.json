@@ -1,0 +1,12 @@
+{
+  "alwaysUpdateLinks": false,
+  "newLinkFormat": "absolute",
+  "showUnsupportedFiles": true,
+  "attachmentFolderPath": "Media",
+  "livePreview": true,
+  "strictLineBreaks": false,
+  "showLineNumber": true,
+  "propertiesInDocument": "source",
+  "tabSize": 2,
+  "vimMode": true
+}
