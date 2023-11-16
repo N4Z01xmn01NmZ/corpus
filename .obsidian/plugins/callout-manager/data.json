@@ -1,7 +1,167 @@
 {
   "callouts": {
-    "custom": [],
-    "settings": {}
+    "custom": [
+      "authors",
+      "methodology",
+      "keyword",
+      "result",
+      "summary",
+      "hyphotesis",
+      "link",
+      "related",
+      "meta"
+    ],
+    "settings": {
+      "todo": [
+        {
+          "changes": {
+            "icon": "lucide-check-square",
+            "color": "210, 15, 57"
+          }
+        }
+      ],
+      "authors": [
+        {
+          "changes": {
+            "color": "253, 114, 128"
+          }
+        }
+      ],
+      "methodology": [
+        {
+          "changes": {
+            "icon": "lucide-wrench",
+            "color": "254, 100, 11"
+          }
+        }
+      ],
+      "keyword": [
+        {
+          "changes": {
+            "icon": "lucide-key",
+            "color": "227, 220, 2"
+          }
+        }
+      ],
+      "caution": [
+        {
+          "changes": {
+            "icon": "lucide-alert-octagon"
+          }
+        }
+      ],
+      "attention": [
+        {
+          "changes": {
+            "icon": "lucide-alert-circle"
+          }
+        }
+      ],
+      "result": [
+        {
+          "changes": {
+            "icon": "lucide-trophy",
+            "color": "227, 220, 2"
+          }
+        }
+      ],
+      "summary": [
+        {
+          "changes": {
+            "icon": "lucide-clipboard-list",
+            "color": "158, 158, 158"
+          }
+        }
+      ],
+      "success": [
+        {
+          "changes": {
+            "icon": "lucide-check-circle"
+          }
+        }
+      ],
+      "check": [
+        {
+          "changes": {
+            "icon": "check-small"
+          }
+        }
+      ],
+      "done": [
+        {
+          "changes": {
+            "icon": "lucide-check-check"
+          }
+        }
+      ],
+      "abstract": [
+        {
+          "changes": {
+            "color": "64, 160, 43"
+          }
+        }
+      ],
+      "faq": [
+        {
+          "changes": {
+            "icon": "lucide-message-square"
+          }
+        }
+      ],
+      "important": [
+        {
+          "changes": {
+            "icon": "lucide-shield-alert"
+          }
+        }
+      ],
+      "cite": [
+        {
+          "changes": {
+            "icon": "lucide-at-sign"
+          }
+        }
+      ],
+      "hyphotesis": [
+        {
+          "changes": {
+            "icon": "lucide-file-question",
+            "color": "4, 165, 229"
+          }
+        }
+      ],
+      "example": [
+        {
+          "changes": {
+            "color": "253, 114, 163"
+          }
+        }
+      ],
+      "link": [
+        {
+          "changes": {
+            "icon": "lucide-link",
+            "color": "132, 218, 113"
+          }
+        }
+      ],
+      "related": [
+        {
+          "changes": {
+            "icon": "lucide-arrow-left-right",
+            "color": "253, 114, 163"
+          }
+        }
+      ],
+      "meta": [
+        {
+          "changes": {
+            "icon": "lucide-info",
+            "color": "64, 165, 229"
+          }
+        }
+      ]
+    }
   },
   "calloutDetection": {
     "obsidianFallbackForced": false,
