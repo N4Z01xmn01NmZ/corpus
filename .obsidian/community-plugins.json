@@ -11,5 +11,9 @@
   "obsidian-relative-line-numbers",
   "highlightr-plugin",
   "obsidian-pandoc",
-  "webpage-html-export"
+  "webpage-html-export",
+  "templater-obsidian",
+  "supercharged-links-obsidian",
+  "dbfolder",
+  "cm-show-whitespace-obsidian"
 ]

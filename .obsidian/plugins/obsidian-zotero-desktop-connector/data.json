@@ -1,28 +1,28 @@
 {
   "database": "Zotero",
-  "noteImportFolder": "Inbox/",
+  "noteImportFolder": "inbox/",
   "pdfExportImageDPI": 120,
-  "pdfExportImageFormat": "jpg",
+  "pdfExportImageFormat": "png",
   "pdfExportImageQuality": 90,
   "citeFormats": [
     {
-      "name": "Cite IEEE",
+      "name": "Cite",
       "format": "template",
-      "cslStyle": "ieee",
       "template": "{{citekey}}"
     }
   ],
   "exportFormats": [
     {
       "name": "Import Paper",
-      "outputPathTemplate": "Inbox/{{title}}.md",
-      "imageOutputPathTemplate": "Media/Zotero/{{citekey}}/",
+      "outputPathTemplate": "inbox/{{citekey}}.md",
+      "imageOutputPathTemplate": "media/Zotero/{{citekey}}/",
       "imageBaseNameTemplate": "{{citekey}}",
-      "templatePath": "Templates/Inputs/paper.md",
+      "templatePath": "templates/paper.md",
       "cslStyle": "ieee"
     }
   ],
   "citeSuggestTemplate": "[[{{citekey}}]]",
   "openNoteAfterImport": true,
-  "whichNotesToOpenAfterImport": "first-imported-note"
+  "whichNotesToOpenAfterImport": "first-imported-note",
+  "shouldConcat": true
 }

@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "bc509eef32796493",
+        "id": "10ecb150f88f7f2f",
         "type": "tabs",
         "children": [
           {
-            "id": "5c14420b6a69e60b",
+            "id": "e195761ae2873eb3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "templates/paper.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -82,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "templates/paper.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "templates/paper.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "templates/paper.md"
+              }
             }
           },
           {
@@ -160,11 +168,24 @@
       "obsidian-advanced-slides:Show Slide Preview": false,
       "obsidian-day-planner:Timeline": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "webpage-html-export:Export Vault to HTML": false
+      "webpage-html-export:Export Vault to HTML": false,
+      "templater-obsidian:Templater": false,
+      "dbfolder:Create a new database table": false
     }
   },
-  "active": "5c14420b6a69e60b",
+  "active": "e195761ae2873eb3",
   "lastOpenFiles": [
+    "media/Zotero",
+    "media",
+    "inbox",
+    "templates/paper.md",
+    "templates",
+    "project/research/09.2023-aso-7.-semester",
+    "project/research/Untitled.md",
+    "git-pages",
+    "project/research",
+    "project",
+    "Untitled.md",
     "git-add.md",
     "git-commit.md",
     "git-clone.md",
@@ -187,15 +208,8 @@
     "Common European Framework of Reference for Languages (CEFR).md",
     "Templates/Inputs/paper.md",
     "{{annotation.imageRelativePath}}.md",
-    "Linguistica/A1/Nomen",
-    "Linguistica/A1",
     "VIM Manual.md",
-    "Linguistica",
     "202310301827.md",
-    "Templates/Inputs",
-    "Media/Zotero",
-    "Media",
-    "Templates",
     "Unbenannt.canvas",
     "2023-10-29.md"
   ]
