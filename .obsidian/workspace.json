@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "templates/paper.md",
+                "file": "git-log.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "templates/paper.md",
+                "file": "git-log.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "templates/paper.md",
+                "file": "git-log.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "templates/paper.md"
+                "file": "git-log.md"
               }
             }
           },
@@ -175,20 +175,22 @@
   },
   "active": "e195761ae2873eb3",
   "lastOpenFiles": [
+    "git-status.md",
+    "git-log.md",
+    "git-commit.md",
+    "git-clone.md",
+    "git-add.md",
+    "git log.md",
+    "templates/paper.md",
     "media/Zotero",
     "media",
     "inbox",
-    "templates/paper.md",
     "templates",
     "project/research/09.2023-aso-7.-semester",
     "project/research/Untitled.md",
     "git-pages",
     "project/research",
     "project",
-    "Untitled.md",
-    "git-add.md",
-    "git-commit.md",
-    "git-clone.md",
     "README.md",
     "ASO Collegium/Untitled.md",
     "ASO Collegium/自分の面接.md",
@@ -197,7 +199,6 @@
     "ASO Collegium",
     "Linguistica/面接【めんせつ】.docx",
     "Linguistica/面接【めんせつ】.pandoc.md",
-    "Linguistica/面接【めんせつ】.html",
     "Linguistica/A1/Buchstaben.md",
     "Linguistica/Partes-Orationis.md",
     "Linguistica/A1/Litterae.md",
@@ -210,7 +211,6 @@
     "{{annotation.imageRelativePath}}.md",
     "VIM Manual.md",
     "202310301827.md",
-    "Unbenannt.canvas",
-    "2023-10-29.md"
+    "Unbenannt.canvas"
   ]
 }
